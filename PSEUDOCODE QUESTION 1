@@ -1,0 +1,10 @@
+# ** Find the maximum number in any of three variables.**\
+*Start 
+Input num1 num2 num3
+If num1> num2 and num1>num3 then 
+Print num1 is maximum 
+Else if num2>num1 and num2>num3 then
+Print num2 is maximum
+Else 
+Print num3 is maximum
+End*\
